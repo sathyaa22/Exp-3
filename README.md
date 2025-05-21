@@ -4,6 +4,8 @@
 ### REG NO: 212223100052
 
 # AIM:
+To draw UML diagrams for Online Railway ticket reservation system.
+
 
 # SRS (Procedure):
 
